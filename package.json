@@ -1,0 +1,27 @@
+{
+  "name": "zml-parrot",
+  "version": "1.0.0",
+  "description": "ZML Parrot Bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "discord",
+    "ZML"
+  ],
+  "author": "official_troller",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.91",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
