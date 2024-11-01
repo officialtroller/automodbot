@@ -1,6 +1,7 @@
 # Auto Mod Discord Bot
 
 Source Code for my Auto Mod Discord Bot. For Questions or Bugs join my [Discord Server](https://discord.gg/JFCXza3tnd).
+
 I am mod in a discord server and noticed this server has some small issues with automated moderating so i sat down and started coding in one file a simple auto mod discord bot where every other moderator can add things to the blacklist through commands that we dont need a website or something else to setup the bot. Later on the bot became so advanced that i added proper handlers to the bot and so this bot got created.
 
 # Usage
