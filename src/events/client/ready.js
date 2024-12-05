@@ -3,6 +3,7 @@ module.exports = {
     name: "ready",
     once: true,
     async execute(client) {
+        // Edit your Presence here!
         client.user.setPresence({
             activities: [
                 {
